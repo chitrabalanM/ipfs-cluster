@@ -1,3 +1,9 @@
+#!/bin/bash
+
+## DESCRIPTION: 
+
+## AUTHOR: CHITRABALAN M (mchitrabalan@gmail.com)
+
 sudo rm -r /home/$USER/ipfs
 GO=`which go`
 if test -z $GO
